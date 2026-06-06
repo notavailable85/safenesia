@@ -1,0 +1,3 @@
+﻿class FirebaseService {
+  // Firebase initialization
+}
