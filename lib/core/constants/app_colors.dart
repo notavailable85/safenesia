@@ -41,7 +41,7 @@ class AppColors {
   // =========================
   // SURFACE
   // =========================
-  static const Color surfaceVariant = Color(0xFFF8FAFC);
+  static const Color surface = Color(0xFFF8FAFC);
   // =========================
   // BORDER
   // =========================
